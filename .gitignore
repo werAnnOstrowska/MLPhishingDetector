@@ -36,3 +36,9 @@ env/
 .vscode/
 .DS_Store
 Thumbs.db
+
+# ========================
+# WYKLUCZENIE DLA FOLDERU PNGS
+# ========================
+!pngs/
+!pngs/*.png
