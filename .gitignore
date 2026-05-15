@@ -1,0 +1,38 @@
+# ========================
+# ZBIORY DANYCH I ARCHIWA
+# ========================
+dataset/
+*.zip
+*.tar
+*.gz
+
+# ========================
+# WAGI MODELU 
+# ========================
+*.pth
+*.pt
+
+# ========================
+# WYGENEROWANE WIZUALIZACJE
+# ========================
+wykres_uczenia.png
+macierz_pomylek.png
+przyklady_analizy.png
+
+# ========================
+# PYTHON I ŚRODOWISKA
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+
+# ========================
+# IDE I SYSTEM OPERACYJNY
+# ========================
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
